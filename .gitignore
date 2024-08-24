@@ -1,32 +1,15 @@
-.DS_Store
+# Ignore application config files with sensitive data
+/application/config/database.php
+/application/config/config.php
 
-application/cache/*
-!application/cache/index.html
+# Ignore system directory if using a separate repository for CodeIgniter core
+/system/
 
-application/logs/*
-!application/logs/index.html
+# Ignore writable and cache directories
+/writable/*
+/cache/*
 
-!application/*/.htaccess
-
-composer.lock
-tests/mocks/database/ci_test.sqlite
-
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
+# Ignore other files or directories that shouldn't be committed
 /vendor/
-
-# IDE Files
-#-------------------------
-/nbproject/
-.idea/*
-
-## Sublime Text cache files
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-*.sublime-project
-/tests/tests/
-/tests/results/
+/node_modules/
+/.env
