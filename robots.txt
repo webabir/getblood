@@ -1,0 +1,60 @@
+User-Agent: *
+Allow:/dashboard
+Allow:/add-user
+Allow:/user-list
+Allow:/donor-list
+Allow:/volunteer-list
+Allow:/about-donation
+Allow:/request
+Allow:/opinion
+Allow:/maintainer
+Allow:/login-page
+Allow:/signup
+Allow:/search-ab-neg
+Allow:/search-ab-pos
+Allow:/search-a-neg
+Allow:/search-a-pos
+Allow:/search-b-neg
+Allow:/search-b-pos
+Allow:/search-o-pos
+Allow:/search-o-neg
+Allow:/search-khulna
+Allow:/search-dhaka
+Allow:/search-barishal
+Allow:/search-chattogram
+Allow:/search-mymensingh
+Allow:/search-rajshahi
+Allow:/search-sylhet
+Allow:/search-rangpur
+Allow:/admin-page
+
+Sitemap: https://www.getblood.info/sitemap.xml
+Sitemap: https://www.getblood.info/dashboard/sitemap.xml
+Sitemap: https://www.getblood.info/add-user/sitemap.xml
+Sitemap: https://www.getblood.info/user-list/sitemap.xml
+Sitemap: https://www.getblood.info/donor-list/sitemap.xml
+Sitemap: https://www.getblood.info/volunteer-list/sitemap.xml
+Sitemap: https://www.getblood.info/about-donation/sitemap.xml
+Sitemap: https://www.getblood.info/request/sitemap.xml
+Sitemap: https://www.getblood.info/opinion/sitemap.xml
+Sitemap: https://www.getblood.info/maintainer/sitemap.xml
+Sitemap: https://www.getblood.info/login-page/sitemap.xml
+Sitemap: https://www.getblood.info/signup/sitemap.xml
+Sitemap: https://www.getblood.info/search-ab-neg/sitemap.xml
+Sitemap: https://www.getblood.info/search-ab-pos/sitemap.xml
+Sitemap: https://www.getblood.info/search-a-neg/sitemap.xml
+Sitemap: https://www.getblood.info/search-b-neg/sitemap.xml
+Sitemap: https://www.getblood.info/search-b-pos/sitemap.xml
+Sitemap: https://www.getblood.info/search-o-pos/sitemap.xml
+Sitemap: https://www.getblood.info/search-o-neg/sitemap.xml
+Sitemap: https://www.getblood.info/search-khulna/sitemap.xml
+Sitemap: https://www.getblood.info/search-dhaka/sitemap.xml
+Sitemap: https://www.getblood.info/search-barishal/sitemap.xml
+Sitemap: https://www.getblood.info/search-chattogram/sitemap.xml
+Sitemap: https://www.getblood.info/search-mymensingh/sitemap.xml
+Sitemap: https://www.getblood.info/search-rajshahi/sitemap.xml
+Sitemap: https://www.getblood.info/search-sylhet/sitemap.xml
+Sitemap: https://www.getblood.info/search-rangpur/sitemap.xml
+Sitemap: https://www.getblood.info/admin-page/sitemap.xml
+
+
