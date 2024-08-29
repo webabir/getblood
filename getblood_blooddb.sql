@@ -2,10 +2,10 @@
 -- version 4.9.0.1
 -- https://www.phpmyadmin.net/
 --
--- Host: sql211.byetcluster.com
--- Generation Time: Aug 29, 2024 at 02:03 PM
--- Server version: 10.6.19-MariaDB
--- PHP Version: 7.2.22
+-- Host: localhost:3306
+-- Generation Time: May 13, 2023 at 02:39 AM
+-- Server version: 5.7.41-cll-lve
+-- PHP Version: 7.4.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `ezyro_37205379_getblood_blooddb`
+-- Database: `localhost`
 --
 
 -- --------------------------------------------------------
