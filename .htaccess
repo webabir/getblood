@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|public|css|ico|db|images|img|js|upload|robots\.txt|sitemap\.xml|adminer\.php)
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+# RewriteEngine On 
+# RewriteCond %{HTTP_HOST} ^myhost\.com$ [NC] 
+# RewriteRule ^(.*)$ myhost.com/$1 [R=301,L] 
+# RewriteCond %{THE_REQUEST} ^[A-Z]+\ /index\.php(/[^\ ]*)?\ HTTP/ 
+# RewriteRule ^index\.php(/(.*))?$ myhost.com/$2 [R=301,L] 
+# RewriteCond %{REQUEST_FILENAME} !-f 
+# RewriteCond %{REQUEST_FILENAME} !-d 
+# RewriteRule ^(.*)$ index.php/$1 [L] 
